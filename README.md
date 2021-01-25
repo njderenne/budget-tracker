@@ -1,5 +1,7 @@
 # Budget Tracker
 
+![screenshot](public/images/screenshot.jpg)
+
 ## Description
 
 As a user, I can track my expenses both positive and negative. The running total will be displayed on the top of the application and a graph of my spending history will be created as I update my expenses.
